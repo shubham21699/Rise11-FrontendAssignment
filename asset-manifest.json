@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rise11-FrontendAssignment/static/css/main.a649c498.css",
+    "main.js": "/Rise11-FrontendAssignment/static/js/main.112d06b6.js",
+    "static/js/787.60ba6a78.chunk.js": "/Rise11-FrontendAssignment/static/js/787.60ba6a78.chunk.js",
+    "static/media/NYcity.webp": "/Rise11-FrontendAssignment/static/media/NYcity.aeada0a16492d0d843bc.webp",
+    "static/media/india.jpg": "/Rise11-FrontendAssignment/static/media/india.468f962ea89bb304eb61.jpg",
+    "static/media/welcome.webp": "/Rise11-FrontendAssignment/static/media/welcome.2887ecff016ecaa89182.webp",
+    "static/media/lasvegas.webp": "/Rise11-FrontendAssignment/static/media/lasvegas.8cc6a922b6a4018e6df9.webp",
+    "static/media/losAngelas.webp": "/Rise11-FrontendAssignment/static/media/losAngelas.fff550fc4a0e3b9bd83a.webp",
+    "static/media/tour.jpg": "/Rise11-FrontendAssignment/static/media/tour.e3548c47a179f71402d6.jpg",
+    "static/media/Logo.png": "/Rise11-FrontendAssignment/static/media/Logo.5cfad384d52ee6550f40.png",
+    "index.html": "/Rise11-FrontendAssignment/index.html",
+    "main.a649c498.css.map": "/Rise11-FrontendAssignment/static/css/main.a649c498.css.map",
+    "main.112d06b6.js.map": "/Rise11-FrontendAssignment/static/js/main.112d06b6.js.map",
+    "787.60ba6a78.chunk.js.map": "/Rise11-FrontendAssignment/static/js/787.60ba6a78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a649c498.css",
+    "static/js/main.112d06b6.js"
+  ]
+}
